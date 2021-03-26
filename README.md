@@ -1,4 +1,4 @@
-test-repo
+Selenium for UI Automation with Python
 =========
 
-this is a test repo
+This is a repository for Selenium scripts for UI automation, written in Python. 
